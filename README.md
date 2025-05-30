@@ -1,4 +1,5 @@
-# 2048
+# 2048-jp
+これは2048を日本語翻訳したものです。なんか最近学校で流行っているけど、日本語版がなかったから翻訳しました。以下は本家のREADME.mdです。
 A small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone). 2048 was indirectly inspired by [Threes](https://asherv.com/threes/).
 
 Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
